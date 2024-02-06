@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"person","l":"Person"},{"p":"school","l":"School"},{"p":"student","l":"Student"},{"p":"teacher","l":"Teacher"},{"p":"<Unnamed>","l":"Test"},{"l":"所有类和接口","u":"allclasses-index.html"}];updateSearchResults();
